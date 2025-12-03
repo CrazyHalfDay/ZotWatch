@@ -6,10 +6,10 @@ crossref:
   enabled: true
   mailto: "you@example.com"
 arxiv:
-  enabled: true
+  enabled: false
   categories: ["q-bio.GN", "cs.LG"]
 biorxiv:
-  enabled: true
+  enabled: false
   from_days_ago: 7
 medrxiv:
   enabled: false
