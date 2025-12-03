@@ -14,4 +14,25 @@ decay_days:
   medium: 7
   slow: 30
 whitelist_authors: []
-whitelist_venues: []
+whitelist_venues:
+  # 综合性顶刊 / 综合期刊
+  - Nature
+  - Science
+  - Nature Communications
+  - Science Advances
+  - Proceedings of the National Academy of Sciences
+  - Nature Reviews Earth and Environment
+  - Nature Geoscience
+  # 地球化学 / 岩石学 / 矿物学
+  - Geochimica et Cosmochimica Acta
+  - Earth and Planetary Science Letters
+  - Chemical Geology
+  - Earth-Science Reviews
+  - Geochemistry, Geophysics, Geosystems
+  - Geochemical Perspectives Letters
+  - Reviews in Mineralogy and Geochemistry
+  - Contributions to Mineralogy and Petrology
+  - Journal of Petrology
+  - Lithos
+  - Journal of Metamorphic Geology
+  - Elements
