@@ -1,6 +1,6 @@
 window_days: 7
 openalex:
-  enabled: false
+  enabled: true
   mailto: "you@example.com"
 crossref:
   enabled: true
